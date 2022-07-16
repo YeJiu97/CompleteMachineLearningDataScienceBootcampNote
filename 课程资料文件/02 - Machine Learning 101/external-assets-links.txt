@@ -1,0 +1,6 @@
+
+Teachable-Machine
+https://teachablemachine.withgoogle.com/
+
+Machine-Learning-Playground
+https://ml-playground.com/#

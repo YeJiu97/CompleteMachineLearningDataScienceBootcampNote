@@ -1,0 +1,16 @@
+<p>Hey there,</p><p>Just a quick note on the upcoming video(s) using our custom confusion matrix function (<code>plot_conf_mat()</code>).</p><p>The function we create sets the x-axis label to "True label" and the y-axis to "Predicted label".</p><p>However, these should be reversed, so the updated function code should look like:</p><pre class="prettyprint linenums"># Import Seaborn
+import seaborn as sns
+sns.set(font_scale=1.5) # Increase font size
+
+def plot_conf_mat(y_test, y_preds):
+    """
+    Plots a confusion matrix using Seaborn's heatmap().
+    """
+    fig, ax = plt.subplots(figsize=(3, 3))
+    ax = sns.heatmap(confusion_matrix(y_test, y_preds),
+                     annot=True, # Annotate the boxes
+                     cbar=False)
+    plt.xlabel("Predicted label") # predictions go on the x-axis
+    plt.ylabel("True label") # true labels go on the y-axis 
+    
+plot_conf_mat(y_test, y_preds)</pre><p>More succinctly:</p><ul><li><p>X-axis = model predictions</p></li><li><p>y-axis = true labels</p></li></ul><p>Keep this label order in mind going forward when labelling your confusion matrices.</p><p>Daniel</p>
