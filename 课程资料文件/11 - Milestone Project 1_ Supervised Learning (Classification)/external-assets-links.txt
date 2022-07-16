@@ -1,0 +1,9 @@
+
+Structured-Data-Projects-on-GitHub
+https://github.com/mrdbourke/zero-to-mastery-ml/tree/master/section-3-structured-data-projects
+
+End-to-end-Heart-Disease-Classification-Notebook-same-as-in-videos-
+https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-3-structured-data-projects/end-to-end-heart-disease-classification-video.ipynb
+
+End-to-end-Heart-Disease-Classification-Notebook-with-annotations-
+https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-3-structured-data-projects/end-to-end-heart-disease-classification.ipynb

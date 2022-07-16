@@ -1,0 +1,15 @@
+
+Structured-Data-Projects-on-GitHub
+https://github.com/mrdbourke/zero-to-mastery-ml/tree/master/section-3-structured-data-projects
+
+End-to-end-Bluebook-Bulldozer-Regression-Notebook-same-as-in-videos-
+https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-3-structured-data-projects/end-to-end-bluebook-bulldozer-price-regression-video.ipynb
+
+End-to-end-Bluebook-Bulldozer-Regression-Notebook-with-annotations-
+https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-3-structured-data-projects/end-to-end-bluebook-bulldozer-price-regression.ipynb
+
+Kaggle-Bluebook-for-Bulldozers-Competition
+https://www.kaggle.com/c/bluebook-for-bulldozers/overview
+
+Pandas-Categorical-Datatype-Documentation
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Categorical.html
